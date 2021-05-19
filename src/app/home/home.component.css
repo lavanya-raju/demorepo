@@ -1,0 +1,14 @@
+.banner-innerpage {
+    padding: 150px 0 100px;
+    background-size: cover;
+    background-position: center center;
+  }
+  .banner-innerpage .title {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .banner-innerpage .subtitle {
+    color: #000000;
+  }
